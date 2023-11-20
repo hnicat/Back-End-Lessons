@@ -1,0 +1,8 @@
+C:\Users\hnica\source\repos\Calculator (Lesson 2)\Calculator (Lesson 2)\bin\Debug\Calculator (Lesson 2).exe.config
+C:\Users\hnica\source\repos\Calculator (Lesson 2)\Calculator (Lesson 2)\bin\Debug\Calculator (Lesson 2).exe
+C:\Users\hnica\source\repos\Calculator (Lesson 2)\Calculator (Lesson 2)\bin\Debug\Calculator (Lesson 2).pdb
+C:\Users\hnica\source\repos\Calculator (Lesson 2)\Calculator (Lesson 2)\obj\Debug\Calculator (Lesson 2).csproj.AssemblyReference.cache
+C:\Users\hnica\source\repos\Calculator (Lesson 2)\Calculator (Lesson 2)\obj\Debug\Calculator (Lesson 2).csproj.SuggestedBindingRedirects.cache
+C:\Users\hnica\source\repos\Calculator (Lesson 2)\Calculator (Lesson 2)\obj\Debug\Calculator (Lesson 2).csproj.CoreCompileInputs.cache
+C:\Users\hnica\source\repos\Calculator (Lesson 2)\Calculator (Lesson 2)\obj\Debug\Calculator (Lesson 2).exe
+C:\Users\hnica\source\repos\Calculator (Lesson 2)\Calculator (Lesson 2)\obj\Debug\Calculator (Lesson 2).pdb
