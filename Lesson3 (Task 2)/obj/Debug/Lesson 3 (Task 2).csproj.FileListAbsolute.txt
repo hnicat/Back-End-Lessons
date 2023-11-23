@@ -1,0 +1,8 @@
+C:\Users\hnica\source\repos\Lesson 3 (Task 2)\Lesson 3 (Task 2)\bin\Debug\Lesson 3 (Task 2).exe.config
+C:\Users\hnica\source\repos\Lesson 3 (Task 2)\Lesson 3 (Task 2)\bin\Debug\Lesson 3 (Task 2).exe
+C:\Users\hnica\source\repos\Lesson 3 (Task 2)\Lesson 3 (Task 2)\bin\Debug\Lesson 3 (Task 2).pdb
+C:\Users\hnica\source\repos\Lesson 3 (Task 2)\Lesson 3 (Task 2)\obj\Debug\Lesson 3 (Task 2).csproj.AssemblyReference.cache
+C:\Users\hnica\source\repos\Lesson 3 (Task 2)\Lesson 3 (Task 2)\obj\Debug\Lesson 3 (Task 2).csproj.SuggestedBindingRedirects.cache
+C:\Users\hnica\source\repos\Lesson 3 (Task 2)\Lesson 3 (Task 2)\obj\Debug\Lesson 3 (Task 2).csproj.CoreCompileInputs.cache
+C:\Users\hnica\source\repos\Lesson 3 (Task 2)\Lesson 3 (Task 2)\obj\Debug\Lesson 3 (Task 2).exe
+C:\Users\hnica\source\repos\Lesson 3 (Task 2)\Lesson 3 (Task 2)\obj\Debug\Lesson 3 (Task 2).pdb
