@@ -14,9 +14,10 @@ namespace Lesson7_task
         static void Main(string[] args)
         {
             ArrayList studentslist = new ArrayList();
-           
-            while (true) { 
-                
+
+            while (true)
+            {
+
                 Console.WriteLine("1. Add Student");
                 Console.WriteLine("2. Update Student");
                 Console.WriteLine("3. Delete Student");
@@ -25,7 +26,7 @@ namespace Lesson7_task
                 Console.WriteLine("6. Exit");
                 Console.Write("Enter your choice: ");
                 byte deyer = Convert.ToByte(Console.ReadLine());
-           
+
                 if (deyer == 6)
                 {
                     break;
@@ -33,18 +34,17 @@ namespace Lesson7_task
                 switch (deyer)
                 {
                     case 1:
-                       
 
                         Console.WriteLine("Enter the student's name:");
-                      string  name = Console.ReadLine();
+                        string name = Console.ReadLine();
                         Console.WriteLine("Enter the student's last name:");
-                       string surname = Console.ReadLine();
+                        string surname = Console.ReadLine();
                         Console.WriteLine("Enter the student's Age:");
-                       byte age = Convert.ToByte(Console.ReadLine());
+                        byte age = Convert.ToByte(Console.ReadLine());
                         Console.WriteLine("Enter the student's score:");
-                       byte resualt = Convert.ToByte(Console.ReadLine());
-                        dynamic students = new { namest = name, surnamest = surname, agest = age, resualtst = resualt };
-                 
+                        byte resualt = Convert.ToByte(Console.ReadLine());
+                        var students = new { namest = name, surnamest = surname, agest = age, resualtst = resualt };
+
                         studentslist.Add(students);
                         foreach (dynamic item in studentslist)
                         {
@@ -55,34 +55,34 @@ namespace Lesson7_task
                     case 2:
                         Console.WriteLine("Enter the name of the student you want to edit:");
                         string name3 = Console.ReadLine();
-                        for(dynamic i = 0; i < studentslist.Count; i++)
+                        for (dynamic i = 0; i < studentslist.Count; i++)
                         {
                             if (studentslist[i].namest == name3)
                             {
                                 studentslist.RemoveAt(i);
 
                                 Console.WriteLine("Edit Student's Name:");
-                                string name4= Console.ReadLine();
+                                string name4 = Console.ReadLine();
                                 Console.WriteLine("Edit Student's Last Name:");
-                                string surname1= Console.ReadLine();
+                                string surname1 = Console.ReadLine();
                                 Console.WriteLine("Edit Student's Age:");
-                                byte age1 =Convert.ToByte( Console.ReadLine());
+                                byte age1 = Convert.ToByte(Console.ReadLine());
                                 Console.WriteLine("Edit Student Result:");
-                                byte result1=Convert.ToByte(Console.ReadLine());
+                                byte result1 = Convert.ToByte(Console.ReadLine());
 
-                                dynamic deyer2 = new { name5 = name4, surname2 = surname1, age2 = age1, result2 = result1 };
-                               
+                                var deyer2 = new { namest = name4, surnamest = surname1, agest = age1, resualtst = result1 };
+
                                 studentslist.Add(deyer2);
 
-                               
+
                             }
                         }
-                      
+
                         break;
                     case 3:
                         Console.WriteLine("Enter the name of the student you want to remove:");
                         string delete = Console.ReadLine();
-                         for(dynamic i = 0; i < studentslist.Count; i++)
+                        for (dynamic i = 0; i < studentslist.Count; i++)
                         {
                             if (studentslist[i].namest == delete)
                             {
@@ -94,7 +94,7 @@ namespace Lesson7_task
                     case 4:
                         foreach (dynamic item in studentslist)
                         {
-                            Console.WriteLine("Name: "+item.namest+" Surname: "+item.surnamest+" Age: "+item.agest+" Resualt:"+item.resualtst);
+                            Console.WriteLine("Name: " + item.namest + " Surname: " + item.surnamest + " Age: " + item.agest + " Resualt:" + item.resualtst);
                         }
                         break;
                     case 5:
@@ -118,9 +118,9 @@ namespace Lesson7_task
 
 
                 }
-             
+
             }
-           
+
 
             Console.ReadLine();
         }
