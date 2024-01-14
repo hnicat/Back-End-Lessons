@@ -1,0 +1,13 @@
+C:\Users\hnica\source\repos\Fast Food Restaurant (Lesson12)\Fast Food Restaurant (Lesson12)\bin\Debug\Fast Food Restaurant (Lesson12).exe.config
+C:\Users\hnica\source\repos\Fast Food Restaurant (Lesson12)\Fast Food Restaurant (Lesson12)\bin\Debug\Fast Food Restaurant (Lesson12).exe
+C:\Users\hnica\source\repos\Fast Food Restaurant (Lesson12)\Fast Food Restaurant (Lesson12)\bin\Debug\Fast Food Restaurant (Lesson12).pdb
+C:\Users\hnica\source\repos\Fast Food Restaurant (Lesson12)\Fast Food Restaurant (Lesson12)\obj\Debug\Fast Food Restaurant (Lesson12).csproj.AssemblyReference.cache
+C:\Users\hnica\source\repos\Fast Food Restaurant (Lesson12)\Fast Food Restaurant (Lesson12)\obj\Debug\Fast Food Restaurant (Lesson12).csproj.SuggestedBindingRedirects.cache
+C:\Users\hnica\source\repos\Fast Food Restaurant (Lesson12)\Fast Food Restaurant (Lesson12)\obj\Debug\Fast_Food_Restaurant__Lesson12_.Form1.resources
+C:\Users\hnica\source\repos\Fast Food Restaurant (Lesson12)\Fast Food Restaurant (Lesson12)\obj\Debug\Fast_Food_Restaurant__Lesson12_.Properties.Resources.resources
+C:\Users\hnica\source\repos\Fast Food Restaurant (Lesson12)\Fast Food Restaurant (Lesson12)\obj\Debug\Fast Food Restaurant (Lesson12).csproj.GenerateResource.cache
+C:\Users\hnica\source\repos\Fast Food Restaurant (Lesson12)\Fast Food Restaurant (Lesson12)\obj\Debug\Fast Food Restaurant (Lesson12).csproj.CoreCompileInputs.cache
+C:\Users\hnica\source\repos\Fast Food Restaurant (Lesson12)\Fast Food Restaurant (Lesson12)\obj\Debug\Fast Food Restaurant (Lesson12).exe
+C:\Users\hnica\source\repos\Fast Food Restaurant (Lesson12)\Fast Food Restaurant (Lesson12)\obj\Debug\Fast Food Restaurant (Lesson12).pdb
+C:\Users\hnica\source\repos\Fast Food Restaurant (Lesson12)\Fast Food Restaurant (Lesson12)\obj\Debug\Fast_Food_Restaurant__Lesson12_.FirstCustomContral.resources
+C:\Users\hnica\source\repos\Fast Food Restaurant (Lesson12)\Fast Food Restaurant (Lesson12)\obj\Debug\Fast_Food_Restaurant__Lesson12_.MySecondCustom.resources
