@@ -1,0 +1,11 @@
+C:\Users\hnica\source\repos\Lesson13\Lesson13\bin\Debug\Lesson13.exe
+C:\Users\hnica\source\repos\Lesson13\Lesson13\bin\Debug\Lesson13.exe.config
+C:\Users\hnica\source\repos\Lesson13\Lesson13\obj\Debug\Lesson13.csproj.AssemblyReference.cache
+C:\Users\hnica\source\repos\Lesson13\Lesson13\obj\Debug\Lesson13.csproj.SuggestedBindingRedirects.cache
+C:\Users\hnica\source\repos\Lesson13\Lesson13\obj\Debug\Lesson13.Form1.resources
+C:\Users\hnica\source\repos\Lesson13\Lesson13\obj\Debug\Lesson13.Properties.Resources.resources
+C:\Users\hnica\source\repos\Lesson13\Lesson13\obj\Debug\Lesson13.csproj.GenerateResource.cache
+C:\Users\hnica\source\repos\Lesson13\Lesson13\obj\Debug\Lesson13.csproj.CoreCompileInputs.cache
+C:\Users\hnica\source\repos\Lesson13\Lesson13\obj\Debug\Lesson13.exe
+C:\Users\hnica\source\repos\Lesson13\Lesson13\obj\Debug\Lesson13.pdb
+C:\Users\hnica\source\repos\Lesson13\Lesson13\bin\Debug\Lesson13.pdb
