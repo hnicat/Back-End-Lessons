@@ -1,0 +1,14 @@
+C:\Users\hnica\source\repos\Lesson14\Lesson14\bin\Debug\Lesson14.exe.config
+C:\Users\hnica\source\repos\Lesson14\Lesson14\bin\Debug\Lesson14.exe
+C:\Users\hnica\source\repos\Lesson14\Lesson14\bin\Debug\Lesson14.pdb
+C:\Users\hnica\source\repos\Lesson14\Lesson14\obj\Debug\Lesson14.csproj.AssemblyReference.cache
+C:\Users\hnica\source\repos\Lesson14\Lesson14\obj\Debug\Lesson14.csproj.SuggestedBindingRedirects.cache
+C:\Users\hnica\source\repos\Lesson14\Lesson14\obj\Debug\Lesson14.Form1.resources
+C:\Users\hnica\source\repos\Lesson14\Lesson14\obj\Debug\Lesson14.Properties.Resources.resources
+C:\Users\hnica\source\repos\Lesson14\Lesson14\obj\Debug\Lesson14.csproj.GenerateResource.cache
+C:\Users\hnica\source\repos\Lesson14\Lesson14\obj\Debug\Lesson14.csproj.CoreCompileInputs.cache
+C:\Users\hnica\source\repos\Lesson14\Lesson14\obj\Debug\Lesson14.exe
+C:\Users\hnica\source\repos\Lesson14\Lesson14\obj\Debug\Lesson14.pdb
+C:\Users\hnica\source\repos\Lesson14\Lesson14\obj\Debug\Lesson14.Qeydiyyat.resources
+C:\Users\hnica\source\repos\Lesson14\Lesson14\obj\Debug\Lesson14.Form2.resources
+C:\Users\hnica\source\repos\Lesson14\Lesson14\obj\Debug\Lesson14.Form3.resources
