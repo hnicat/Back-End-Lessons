@@ -1,0 +1,41 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+.Box{
+    Border:1px solid blue;
+    width:15%;
+
+display:inline-block;
+text-align-last:center;
+padding:10px;
+margin:4rem 0rem -3rem;
+}
+.Flex{
+display:flex;
+flex-wrap:wrap;
+justify-content:space-evenly;
+}
+.Center{
+    text-align:center;
+
+}
+.last{
+ display:block;
+
+ font-weight: bold;
+
+}
+
+.Box i{
+justify-content: center;
+align-items: center;
+  font-size:65px;
+  color:blue;
+  margin-bottom:25px;
+}
+.Box small{
+color:blue;
+
+}
